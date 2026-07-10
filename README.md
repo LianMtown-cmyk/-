@@ -3,3 +3,5 @@
 | ## = Payload
 
 | ### = Virus
+
+| winscr = combined
